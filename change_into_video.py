@@ -8,9 +8,9 @@ import re
 def natural_sort_key(s):
     return [int(text) if text.isdigit() else text.lower() for text in re.split('([0-9]+)', s)]
 
-folder_path = 'source'
+folder_path = 'processed_source'
 
-output_video_path = 'source/double.avi'
+output_video_path = 'processed_source/single.avi'
 
 
 files = [f for f in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, f))]
