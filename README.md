@@ -1,7 +1,7 @@
 # ComputerVision
 ***
-My task file is named "task.ipynb"
-I mostly used openCV and YOLO to solve these tasks.  
+My task file is named "task.ipynb".
+I mostly used openCV and YOLO to solve these tasks. 
 
 OpenCV is an open-source software library that provides tools and algorithms for image and video processing, including features like object detection, tracking, and recognition. It's widely used in various applications, from robotics to augmented reality, due to its versatility and efficiency.  
 
